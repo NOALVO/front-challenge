@@ -11,7 +11,7 @@ O teste é basicamente o seguinte, use a API do [Google Maps](https://developers
 
 o JSON segue essa estrutura:
 
-```json
+```js
 {
   "markers": [
     [-34.397, 150.644], // Lat e Lng respectivamente
