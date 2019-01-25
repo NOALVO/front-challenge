@@ -41,9 +41,9 @@ Faça a mesma coisa que o teste do Junior, porém agora use o atributo `percent`
 
 Faça a mesma coisa que o teste do Junior e do Pleno, porém agora tudo deve continuar funcionando quando põe o maps em fullscreen. Aqui avaliaremos questões arquiteturais também.
 
-### Layout
+### Layout exemplo
 
-Segue o arquivo do [Adobe XD]() e a screenshot
+Segue o arquivo [Adobe XD]() e a screenshot
 
 ![screenshot](assets/example.png)
 
