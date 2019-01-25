@@ -26,7 +26,7 @@ esse passa por partes (do mais junior ao mais sênior) sendo elas
 
 #### Junior
 
-Plote os markers e as audiências no mapa, as audiência são os [`Circles`](https://developers.google.com/maps/documentation/javascript/examples/circle-simple) da API do Google Maps, coloque o `radius` com valor de `100`, porém precisa ter `checkbox`s [dentro do mapa](#Layout) que determinam quais "camadas" estão ativas (se é para mostrar markers ou audiência ou os dois)
+Plote os markers e as audiências no mapa, as audiência são os [`Circles`](https://developers.google.com/maps/documentation/javascript/examples/circle-simple) da API do Google Maps, coloque o `radius` com valor de `100`, porém precisa ter `checkbox`s [dentro do mapa](#layout-exemplo) que determinam quais "camadas" estão ativas (se é para mostrar markers ou audiência ou os dois)
 
 #### Pleno
 
@@ -43,7 +43,7 @@ Faça a mesma coisa que o teste do Junior e do Pleno, porém agora tudo deve con
 
 ### Layout exemplo
 
-Segue o arquivo [Adobe XD]() e a screenshot
+Segue o arquivo [Adobe XD](https://github.com/IgorHalfeld/front-challenge/blob/master/assets/front-challenge.xd) e a screenshot
 
 ![screenshot](assets/example.png)
 
