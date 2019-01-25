@@ -34,9 +34,11 @@ Faça a mesma coisa que o teste do Junior, porém agora use o atributo `percent`
 + Até 80, usar essa cor `#ff5400`
 + Acima de 80, usar `#da0909`
 
+Aqui avaliaremos questões arquiteturais também.
+
 #### Sênior
 
-Faça a mesma coisa que o teste do Junior e do Pleno, porém agora tudo deve continuar funcionando quando põe o maps em fullscreen. Aqui avaliaremos questões arquiteturais também.
+Faça a mesma coisa que o teste do Junior e do Pleno, porém agora tudo deve continuar funcionando quando põe o maps em fullscreen.
 
 ### Layout exemplo
 
