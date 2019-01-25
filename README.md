@@ -5,9 +5,7 @@
 
 A NOALVO é a maior plataforma brasileira de planejamento e compra de mídia out-of-home (ex: Relógio de rua, Outdoor..) e lidamos bastante com calculos de trigonometria e coisas relacionadas a latitude e longitude, então como você já deve imaginar, o nosso maior desafio no Front é justamente lidar com mapas e manter a UI leve e usável em qualquer dispositivo.
 
-O teste é basicamente o seguinte, use a API do [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial) para plotar os dados do JSON que vem desse [endpoint](https://front-challenge.azurewebsites.net/api/markers-audiencias-json).
-
-o JSON segue essa estrutura:
+O teste é basicamente o seguinte, use a API do [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial) para plotar os dados do JSON que vem desse [endpoint](https://front-challenge.azurewebsites.net/api/markers-audiencias-json), que segue essa estrutura:
 
 ```js
 {
@@ -21,8 +19,7 @@ o JSON segue essa estrutura:
   ]
 }
 ```
-
-esse passa por partes (do mais junior ao mais sênior) sendo elas
+Dependendo do nível da vaga, você terá que fazer features especificas, são elas:
 
 #### Junior
 
