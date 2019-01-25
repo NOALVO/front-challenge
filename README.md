@@ -27,7 +27,7 @@ Responda o email que nós já estavamos conversando com o link do seu repositór
 
 #### OBS
 
-+ *Você não precisa terminar todo o desafio, nós avaliaremos seu código e a sua intenção em fazer as coisas, quando achar que esta pronto envie o projeto!*
++ **Você não precisa terminar todo o desafio, nós avaliaremos seu código e a sua intenção em fazer as coisas, quando achar que esta pronto envie o projeto!**
 + No README do projeto precisa ter como rodar ele.
 
 ### Sobre o Framework
