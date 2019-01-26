@@ -19,6 +19,9 @@ O teste é basicamente o seguinte, use a API do [Google Maps](https://developers
   ]
 }
 ```
+
+_só para entender, os `markers` são os pontos de mídia(como por exemplo um Outdoor) e as `audiências` são a quantidade de pessoas que passam em um lat/lng específico_
+
 Dependendo do nível da vaga, você terá que fazer features especificas, são elas:
 
 #### Junior
