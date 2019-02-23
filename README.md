@@ -24,11 +24,9 @@ _só para entender, os `markers` são os pontos de mídia(como por exemplo um Ou
 
 Dependendo do nível da vaga, você terá que fazer features especificas, são elas:
 
-#### Junior
+#### Desafio
 
 Plote os markers e as audiências no mapa, as audiência são os [`Circles`](https://developers.google.com/maps/documentation/javascript/examples/circle-simple) da API do Google Maps, coloque o `radius` com valor de `100`, porém precisa ter `checkbox`s [dentro do mapa](#layout-exemplo) que determinam quais "camadas" estão ativas (se é para mostrar markers ou audiência ou os dois)
-
-#### Pleno
 
 Faça a mesma coisa que o teste do Junior, porém agora use o atributo `percent` que vem nas audiências para determinar a cor do circulo. Esse atributo vai de 0 à 100 e segue a seguinte lógica:
 
@@ -37,11 +35,10 @@ Faça a mesma coisa que o teste do Junior, porém agora use o atributo `percent`
 + Até 80, usar essa cor `#ff5400`
 + Acima de 80, usar `#da0909`
 
-Aqui avaliaremos questões arquiteturais também.
+#### OBS
 
-#### Sênior
-
-Faça a mesma coisa que o teste do Junior e do Pleno, porém agora tudo deve continuar funcionando quando põe o maps em fullscreen.
++ **Você não precisa terminar todo o desafio, nós avaliaremos seu código e a sua intenção em fazer as coisas, quando achar que esta pronto envie o projeto!**
++ No README do projeto precisa ter como rodar ele.
 
 ### Layout exemplo
 
@@ -52,11 +49,6 @@ Segue o arquivo [Adobe XD](https://github.com/IgorHalfeld/front-challenge/blob/m
 ### Sobre a entrega do teste
 
 Responda o email que nós já estavamos conversando com o link do seu repositório onde você colocou o código.
-
-#### OBS
-
-+ **Você não precisa terminar todo o desafio, nós avaliaremos seu código e a sua intenção em fazer as coisas, quando achar que esta pronto envie o projeto!**
-+ No README do projeto precisa ter como rodar ele.
 
 ### Sobre o Framework
 
