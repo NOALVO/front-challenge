@@ -5,17 +5,11 @@
 
 A NOALVO é uma startup de tecnologia para [mídia out-of-home](https://pt.wikipedia.org/wiki/Publicidade_exterior) e lidamos bastante com calculos de trigonometria e coisas relacionadas a geoprocessamento. Como você já deve imaginar, o nosso maior desafio no Front é justamente lidar com mapas e manter a UI leve e usável em qualquer dispositivo.
 
-## Como enviar
-
-- Responda o email que nós já estavamos conversando com o link do seu repositório no GitHub onde você colocou o código. Prefira não usar o nome desse repositório para outros candidatos não copiarem seu código.
-- **Você não precisa terminar todo o desafio, nós avaliaremos seu código e a sua intenção em fazer as coisas, quando achar que esta pronto envie o projeto!**
-- Indique como rodar o projeto no arquivo README do repositório.
-
-## Stack
+### Stack
 
 Aqui usamos [Vue.js](http://vuejs.org), mas fique à vontade para usar React (ou até mesmo JavaScript Puro). Só tenha em mente que aqui as coisas serão implementadas em Vue 😎
 
-## Sobre o desafio
+### Sobre o desafio
 
 Use a API do [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial) para plotar os dados do JSON que vem [desse endpoint](https://front-challenge.azurewebsites.net/api/markers-audiencias-json) e que segue a seguinte estrutura:
 
@@ -46,3 +40,9 @@ Além disso, você deve implementar um controle de camadas vísiveis, que exibe/
 
 ![screenshot](assets/example.png)
 arquivo [Adobe XD](https://github.com/IgorHalfeld/front-challenge/blob/master/assets/front-challenge.xd) com o layout
+
+### Como enviar
+
+- Responda o email que nós já estavamos conversando com o link do seu repositório no GitHub onde você colocou o código. Prefira não usar o nome desse repositório para outros candidatos não copiarem seu código.
+- **Você não precisa terminar todo o desafio, nós avaliaremos seu código e a sua intenção em fazer as coisas, quando achar que esta pronto envie o projeto!**
+- Indique como rodar o projeto no arquivo README do repositório.
