@@ -22,8 +22,6 @@ O teste é basicamente o seguinte, use a API do [Google Maps](https://developers
 
 _só para entender, os `markers` são os pontos de mídia(como por exemplo um Outdoor) e as `audiências` são a quantidade de pessoas, de uma faixa etária/classe que passam em um lat/lng específico_
 
-Dependendo do nível da vaga, você terá que fazer features especificas, são elas:
-
 #### Desafio
 
 Plote os markers e as audiências no mapa, as audiência são os [`Circles`](https://developers.google.com/maps/documentation/javascript/examples/circle-simple) da API do Google Maps, coloque o `radius` com valor de `100`, porém precisa ter `checkbox`s [dentro do mapa](#layout-exemplo) que determinam quais "camadas" estão ativas (se é para mostrar markers ou audiência ou os dois)
