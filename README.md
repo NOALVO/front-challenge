@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vagas.midianoalvo.com.br/img/logo_scopum.ae5c9e8f.png" width="100" />
+  <img src="assets/acerto-miseravi.png" width="100" />
   <h2 align="center">Front-end Challenge</h2>
 </p>
 
